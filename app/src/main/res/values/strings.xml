@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="hello_my_name">Hello my name is anis siam</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_username_or_password"><u>Forgot username or password?</u></string>
+    <string name="new_user_sign_up"><u>New user sign up</u>></string>
+    <string name="copyright_2022_all_rights_reserverd">Copyright 2022, All Rights Reserverd</string>
+    <string name="login">Login</string>
+    <string name="sign_to_your_account">Sign to your account</string>
+    <string name="your_email">Your Email</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="i_don_t_have_account">I don’t have account</string>
+</resources>
