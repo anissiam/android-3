@@ -13,4 +13,5 @@
     <string name="forgot_password">Forgot Password?</string>
     <string name="i_don_t_have_account">I don’t have account</string>
     <string name="profile">Profile</string>
+    <string name="continue_as_a_guest"><u>Continue as a guest</u></string>
 </resources>
