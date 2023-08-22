@@ -13,12 +13,15 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        Intent intent = getIntent();
+        String ss = intent.getStringExtra("DATA");
 
-
+        Toast.makeText(this, ss, Toast.LENGTH_SHORT).show();
         Button button = findViewById(R.id.btn);
         EditText editText = findViewById(R.id.edtText);
         editText.setInputType(InputType.TYPE_CLASS_PHONE);
